@@ -38,14 +38,4 @@ A creamy pasta dish made with a smooth white sauce, Parmesan cheese, garlic, and
 - Creating multiple linked webpages
 - Basic Git and GitHub workflow
 
-## Project Structure
 
-
-odin-recipes/
-├── index.html
-├── img/
-│   └── lasagna.jpg
-└── recipes/
-    ├── lasagna.html
-    ├── pizza.html
-    └── pasta.html
